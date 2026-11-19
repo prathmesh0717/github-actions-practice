@@ -1,5 +1,5 @@
 # This code is from Prathmesh Karale
-# Flask App
+# Prathmesh App
 from flask import Flask, render_template
 app = Flask(__name__)
 
