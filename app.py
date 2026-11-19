@@ -1,6 +1,6 @@
 # Flask-App
 # New File added
-
+# This Code Is Python code
 from flask import Flask, render_template
 
 app = Flask(__name__)
